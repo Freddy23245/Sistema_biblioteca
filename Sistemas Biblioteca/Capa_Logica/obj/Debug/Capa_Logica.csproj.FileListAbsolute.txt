@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Logica\obj\Debug\Capa_Logica.pdb

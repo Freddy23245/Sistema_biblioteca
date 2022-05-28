@@ -1,0 +1,46 @@
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.exe.config
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.exe
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Alumnos.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Autores.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Editoriales.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Genero.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Inicio.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Libros.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Login.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Prestamos.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.exe
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Usuarios.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Recuperar_Contraseña.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Grupos.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Grupos_Permisos.resources
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Grupos_Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.exe.config
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.exe
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.exe
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Sistemas Biblioteca.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Logica.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Logica.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Alumnos.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Autores.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Editoriales.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Genero.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Inicio.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Libros.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Login.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Prestamos.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas_Biblioteca.Usuarios.resources
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Sistemas Biblioteca\obj\Debug\Sistemas Biblioteca.csproj.GenerateResource.Cache

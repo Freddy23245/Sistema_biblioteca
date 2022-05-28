@@ -1,0 +1,12 @@
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Proyecto Biblioteca\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.pdb
